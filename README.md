@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 🇧🇷
 
 <!--
 **PauloSpiguel/PauloSpiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Paulo Spiguel from Brazil (🇧🇷). I've been working as Front-End Developer since 2015 and currently I'm Developer at [GBSN Research](https://gbsnresearch.com). I'm passionate about projects that can make people's lives easier. I love to study and I like to learn, I feel that one day I'll be part of something great that could improve the world in some way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time, I like to play (and watch) football (⚽️ ), watch movies (🎞️ ) and series (📺 ), read books (📚 ), listen to music (🎵) and I like to walk and observe the details of people and admire the beauty of this world, I am a Christian and also a little scientist, so I like to philosophize about life with a guarana (🥤).
+
+One of my biggest dreams is to be fluent in English and self-sufficient in my work.
+
+Would you like to find me?
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/paulospiguel_)](https://twitter.com/paulospiguel)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulospiguel)](https://www.linkedin.com/in/paulospiguel)
