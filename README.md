@@ -1,7 +1,7 @@
 ### Hi there 👋 🇧🇷
 
 <!--
-**PauloSpiguel/PauloSpiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PauloSpiguel/PauloSpiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
 My name is Paulo Spiguel from Brazil (🇧🇷). I've been working as Front-End Developer since 2015 and currently I'm Developer at [GBSN Research](https://gbsnresearch.com). I'm passionate about projects that can make people's lives easier. I love to study and I like to learn, I feel that one day I'll be part of something great that could improve the world in some way.
 
