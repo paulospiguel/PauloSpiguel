@@ -8,8 +8,3 @@ My name is Paulo Spiguel from Brazil (🇧🇷). I've been working as Front-End 
 In my free time, I like to play (and watch) football (⚽️ ), watch movies (🎞️ ) and series (📺 ), read books (📚 ), listen to music (🎵) and I like to walk and observe the details of people and admire the beauty of this world, I am a Christian and also a little scientist, so I like to philosophize about life with a guarana (🥤).
 
 One of my biggest dreams is to be fluent in English and self-sufficient in my work.
-
-Would you like to find me?
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/paulospiguel_)](https://twitter.com/paulospiguel)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulospiguel)](https://www.linkedin.com/in/paulospiguel)
