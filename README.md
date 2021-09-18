@@ -10,5 +10,5 @@ In my free time, I like to play (and watch) football (⚽️ ), watch movies (�
 One of my biggest dreams is to be fluent in English and self-sufficient in my work.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulospiguel)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloSpiguel)](https://github.com/anuraghazra/github-readme-stats)
 
