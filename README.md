@@ -9,6 +9,9 @@ In my free time, I like to play (and watch) football (⚽️ ), watch movies (�
 
 One of my biggest dreams is to be fluent in English and self-sufficient in my work.
 
+📈 **My GitHub Stats:**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloSpiguel)](https://github.com/anuraghazra/github-readme-stats)
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubiin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubiin&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=radical"/>
+</p>
