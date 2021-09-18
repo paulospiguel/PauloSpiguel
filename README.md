@@ -8,3 +8,7 @@ My name is Paulo Spiguel from Brazil (🇧🇷). I've been working as Front-End 
 In my free time, I like to play (and watch) football (⚽️ ), watch movies (🎞️ ) and series (📺 ), read books (📚 ), listen to music (🎵) and I like to walk and observe the details of people and admire the beauty of this world, I am a Christian and also a little scientist, so I like to philosophize about life with a guarana (🥤).
 
 One of my biggest dreams is to be fluent in English and self-sufficient in my work.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?PauloSpiguel=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
