@@ -9,8 +9,9 @@ In my free time, I like to play (and watch) football (⚽️ ), watch movies (�
 
 One of my biggest dreams is to be fluent in English and self-sufficient in my work.
 
-
+<p>
 📈 **My GitHub Stats:**
+</p>
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloSpiguel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
