@@ -10,25 +10,6 @@ In my free time, I like to play (and watch) football (⚽️ ), watch movies (�
 One of my biggest dreams is to be fluent in English and self-sufficient in my work.
 
 
-**Stuffs I use (Languages,Tools and Others):**
-<br/><br/>
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript&logoColor=3178C6)
-![Typescript](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=5df58b)
-![Golang](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=Go&logoColor=5df58b)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=Trello&logoColor=0079BF)
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=for-the-badge&logo=Jenkins&logoColor=D24939)
-![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman&logoColor=FF6C37)
-![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=Jira&logoColor=0052CC)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![postgres](https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=postgresql)
-
 📈 **My GitHub Stats:**
 
 <p>
