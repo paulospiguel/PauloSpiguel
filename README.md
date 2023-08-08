@@ -15,7 +15,7 @@
    <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 
-I'm Paulo Spiguel, a FullStack Developer passionate about knowledge, with a journey that started in 2015. I'm currently a Developer at Vortal Connect Business, where I blend creativity and functionality to create impactful digital experiences.
+I'm Paulo Spiguel, a FullStack Developer passionate about knowledge, with a journey that started in 2015. I'm currently a Developer at [Vortal Connect Business](https://vortal.biz), where I blend creativity and functionality to create impactful digital experiences.
 
 My focus is on projects that simplify and improve lives. I am an avid learner, always looking to expand my skill set and stay ahead of industry trends. I am driven by the conviction that every day is an opportunity to move closer to greatness and contribute to a better world.
 
