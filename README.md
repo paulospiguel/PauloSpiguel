@@ -21,9 +21,8 @@ My focus is on projects that simplify and improve lives. I am an avid learner, a
 
 Beyond programming, I am a soccer enthusiast (⚽️), both on and off the field. I find joy in movies (🎞️), series (📺), books (📚), music (🎵), and leisurely strolls, appreciating the beauty of life's details I am very family-oriented. With a Christian background and a touch of scientific curiosity, I enjoy contemplating the mysteries of life over a guarana (🥤).
 
-I also contribute my expertise to [DKPA Services & Technology](https://www.dkpa.pt), broadening my impact on the tech landscape. 
+I also contribute my expertise to [DKPA Services & Technology](https://www.dkpa.pt), broadening my impact on the tech landscape.
 
-Translated with www.DeepL.com/Translator (free version)
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloSpiguel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSpiguel&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=radical"/>
