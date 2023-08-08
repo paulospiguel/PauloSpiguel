@@ -15,12 +15,15 @@
    <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 
-My name is Paulo Spiguel from Brazil (🇧🇷). I've been working as Front-End Developer since 2015 and currently I'm Developer at [GBSN Research](https://gbsnresearch.com). I'm passionate about projects that can make people's lives easier. I love to study and I like to learn, I feel that one day I'll be part of something great that could improve the world in some way.
+I'm Paulo Spiguel, a FullStack Developer passionate about knowledge, with a journey that started in 2015. I'm currently a Developer at Vortal Connect Business, where I blend creativity and functionality to create impactful digital experiences.
 
-In my free time, I like to play (and watch) football (⚽️ ), watch movies (🎞️ ) and series (📺 ), read books (📚 ), listen to music (🎵) and I like to walk and observe the details of people and admire the beauty of this world, I am a Christian and also a little scientist, so I like to philosophize about life with a guarana (🥤).
+My focus is on projects that simplify and improve lives. I am an avid learner, always looking to expand my skill set and stay ahead of industry trends. I am driven by the conviction that every day is an opportunity to move closer to greatness and contribute to a better world.
 
-One of my biggest dreams is to be fluent in English and self-sufficient in my work.
+Beyond programming, I am a soccer enthusiast (⚽️), both on and off the field. I find joy in movies (🎞️), series (📺), books (📚), music (🎵), and leisurely strolls, appreciating the beauty of life's details I am very family-oriented. With a Christian background and a touch of scientific curiosity, I enjoy contemplating the mysteries of life over a guarana (🥤).
 
+I also contribute my expertise to [DKPA Services & Technology](https://www.dkpa.pt), broadening my impact on the tech landscape. 
+
+Translated with www.DeepL.com/Translator (free version)
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloSpiguel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSpiguel&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=radical"/>
