@@ -14,6 +14,8 @@
    <img align="center" alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
    <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
+<br/>
+<br/>
 
 Olá, sou Paulo, engenheiro de software FullStack apaixonado por conhecimento e por descobrir novas tecnologias. Minha jornada neste incrível mundo começou em 2015, quando percebi a necessidade e a oportunidade de, através de linhas de código e automação de processos, simplificar e melhorar a vida das pessoas. Atualmente, atuo em diversas frentes, impactando e criando experiências memoráveis em grandes empresas no Brasil e na Europa. Meu foco é combinar criatividade e flexibilidade para entregar soluções impactantes para centenas de pessoas ao redor do mundo.
 
