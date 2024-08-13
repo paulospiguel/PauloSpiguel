@@ -16,12 +16,16 @@
 </div>
 <br/>
 
-<p>Olá, sou Paulo, engenheiro de software FullStack apaixonado por conhecimento e por descobrir novas tecnologias. Minha jornada neste incrível mundo começou em 2015, quando percebi a necessidade e a oportunidade de, através de linhas de código e automação de processos, simplificar e melhorar a vida das pessoas. Atualmente, atuo em diversas frentes, impactando e criando experiências memoráveis em grandes empresas no Brasil e na Europa. Meu foco é combinar criatividade e flexibilidade para entregar soluções impactantes para centenas de pessoas ao redor do mundo.
-
+<p>
+Olá, sou Paulo, engenheiro de software FullStack apaixonado por conhecimento e por descobrir novas tecnologias. Minha jornada neste incrível mundo começou em 2015, quando percebi a necessidade e a oportunidade de, através de linhas de código e automação de processos, simplificar e melhorar a vida das pessoas. Atualmente, atuo em diversas frentes, impactando e criando experiências memoráveis em grandes empresas no Brasil e na Europa. Meu foco é combinar criatividade e flexibilidade para entregar soluções impactantes para centenas de pessoas ao redor do mundo.
+</p>
+<p>
 Sou um aprendiz constante, entusiasta da inovação e amo expandir minhas habilidades, sempre buscando me manter à frente das tendências da indústria. Cada dia é uma nova oportunidade para aprender algo novo, aprimorar minha excelência e contribuir para um mundo melhor.
-
+</p>
+<p>
 Fora do código, sou praticante de esportes, apreciando todas as modalidades, mas com uma dedicação especial aos esportes coletivos, onde exerço liderança e gosto de orientar os mais jovens, mostrando-lhes os atalhos para a vitória. Também gosto de me aprofundar em documentários (🎞️), séries (📺), livros (📚) e relaxar ao som de boa música (🎵). Encontro paz em passeios tranquilos, apreciando os pequenos, mas significativos detalhes da vida, e sou profundamente ligado à minha família, além de ser um praticante devoto da religião cristã. Muitas vezes, gosto de refletir sobre os mistérios da vida enquanto aprecio um belo copo de bebida gelada (🥤).
-
+</p>
+<p>
 Além de contribuir para diversas empresas, também aplico minha experiência em minha própria startup, onde amplifico ainda mais meu impacto no mundo da tecnologia, testando conceitos e exercendo minha atitude empreendedora.
 </p>
 
