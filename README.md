@@ -15,13 +15,13 @@
    <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 
-I'm Paulo Spiguel, a FullStack Developer passionate about knowledge, with a journey that started in 2015. I'm currently a Developer at [Vortal Connect Business](https://vortal.biz), where I blend creativity and functionality to create impactful digital experiences.
+Olá, sou Paulo, engenheiro de software FullStack apaixonado por conhecimento e por descobrir novas tecnologias. Minha jornada neste incrível mundo começou em 2015, quando percebi a necessidade e a oportunidade de, através de linhas de código e automação de processos, simplificar e melhorar a vida das pessoas. Atualmente, atuo em diversas frentes, impactando e criando experiências memoráveis em grandes empresas no Brasil e na Europa. Meu foco é combinar criatividade e flexibilidade para entregar soluções impactantes para centenas de pessoas ao redor do mundo.
 
-My focus is on projects that simplify and improve lives. I am an avid learner, always looking to expand my skill set and stay ahead of industry trends. I am driven by the conviction that every day is an opportunity to move closer to greatness and contribute to a better world.
+Sou um aprendiz constante, entusiasta da inovação e amo expandir minhas habilidades, sempre buscando me manter à frente das tendências da indústria. Cada dia é uma nova oportunidade para aprender algo novo, aprimorar minha excelência e contribuir para um mundo melhor.
 
-Beyond programming, I am a soccer enthusiast (⚽️), both on and off the field. I find joy in movies (🎞️), series (📺), books (📚), music (🎵), and leisurely strolls, appreciating the beauty of life's details I am very family-oriented. With a Christian background and a touch of scientific curiosity, I enjoy contemplating the mysteries of life over a guarana (🥤).
+Fora do código, sou praticante de esportes, apreciando todas as modalidades, mas com uma dedicação especial aos esportes coletivos, onde exerço liderança e gosto de orientar os mais jovens, mostrando-lhes os atalhos para a vitória. Também gosto de me aprofundar em documentários (🎞️), séries (📺), livros (📚) e relaxar ao som de boa música (🎵). Encontro paz em passeios tranquilos, apreciando os pequenos, mas significativos detalhes da vida, e sou profundamente ligado à minha família, além de ser um praticante devoto da religião cristã. Muitas vezes, gosto de refletir sobre os mistérios da vida enquanto aprecio um belo copo de bebida gelada (🥤).
 
-I also contribute my expertise to [DKPA Services & Technology](https://www.dkpa.pt), broadening my impact on the tech landscape.
+Além de contribuir para diversas empresas, também aplico minha experiência em minha própria startup, onde amplifico ainda mais meu impacto no mundo da tecnologia, testando conceitos e exercendo minha atitude empreendedora.
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloSpiguel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
